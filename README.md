@@ -8,3 +8,5 @@ Extract the zip and place  discord-rpc.dll **outside** the Mods folder.
 
 Then put the DiscordPresence.dll **inside** the Mods folder.
 ![image](https://user-images.githubusercontent.com/49346095/141225248-bc85dc7d-e311-446c-a6fb-f03cd457d802.png)
+
+![image](https://user-images.githubusercontent.com/49346095/141225553-07314ec7-23e5-4a2a-9cb2-2087cd08f0dc.png)
